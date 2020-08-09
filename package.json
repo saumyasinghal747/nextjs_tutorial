@@ -1,0 +1,28 @@
+{
+  "name": "nextjs_tutorial",
+  "version": "1.0.0",
+  "description": "Trial",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^9.5.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saumyasinghal747/nextjs_tutorial.git"
+  },
+  "keywords": [
+    "triall"
+  ],
+  "author": "Saumya Singhal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saumyasinghal747/nextjs_tutorial/issues"
+  },
+  "homepage": "https://github.com/saumyasinghal747/nextjs_tutorial#readme"
+}
